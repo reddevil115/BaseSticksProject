@@ -1,10 +1,10 @@
 # BaseSticksProject by The Team Fifty Seven
 
-about repository:
+About this repository:
 
 This repository for BaseSticksProject by The Team Fifty Seven.
 
-The Team Fifty Seven:
+About The Team Fifty Seven:
 
 Team for Changwon National University where in Republic of Korea's graduate project.
 
@@ -18,4 +18,4 @@ Team for Changwon National University where in Republic of Korea's graduate proj
   
 - Academic Adviser:
 
-  Professor. Lee Su Hyeon (Changwon National University)
+  Professor. Su Hyeon, Lee (Changwon National University)
