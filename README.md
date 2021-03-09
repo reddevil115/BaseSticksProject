@@ -1,13 +1,13 @@
 # BaseSticksProject by The Team Fifty Seven
 
-about repository:\n
+about repository:
 This repository for BaseSticksProject by The Team Fifty Seven.
 
-The Team Fifty Seven:\n
+The Team Fifty Seven:
 Team for Changwon National University where in Republic of Korea's graduate project.
 
-- Crew Memeber:\n
+- Crew Memeber:
   Gi Young, Kim(LOUIS KIM) / Main Developer, Team Leader.\n
   
-- Academic Adviser:\n
+- Academic Adviser:
   Professor. Lee Su Hyeon (Changwon National University)
