@@ -8,6 +8,9 @@ About this repository:
 
 This repository for BaseSticksProject by The Team Fifty Seven.
 
+ = Project is just uploaded at Google Play Store now.
+   https://play.google.com/store/apps/details?id=com.teamfiftyseven.basesticks
+
 About The Team Fifty Seven:
 
 Team for Changwon National University where in Republic of Korea's graduate project.
