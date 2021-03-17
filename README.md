@@ -28,3 +28,12 @@ Team for Changwon National University where in Republic of Korea's graduate proj
 - Academic Adviser:
 
   Professor. Su Hyeon, Lee (Changwon National University)
+  
+  How to use this project?
+  
+ Step 1. Please clone this project to your PC and install Unity Engine.
+ 
+ - Unity URl:
+   https://unity.com/
+ 
+ Step 2. Import pakage file at Unity Engine.
