@@ -1,6 +1,6 @@
 # BaseSticksProject by The Team Fifty Seven
 
-About this project:
+I. About this project:
 
 This project is a game which is fusion between Korean traditional boardgame caleed "Yutnori" and Baseball.
 
@@ -9,11 +9,11 @@ This project is a game which is fusion between Korean traditional boardgame cale
    https://play.google.com/store/apps/details?id=com.teamfiftyseven.basesticks
 
 
-About this repository:
+II. About this repository:
 
 This repository for BaseSticksProject by The Team Fifty Seven.
 
-About The Team Fifty Seven:
+III. About The Team Fifty Seven:
 
 Team for Changwon National University where in Republic of Korea's graduate project.
 
@@ -25,11 +25,11 @@ Team for Changwon National University where in Republic of Korea's graduate proj
   
   https://www.linkedin.com/in/louis-kim-gi-young-kim-47a2361b5/
   
-- Academic Adviser:
+ III. Academic Adviser:
 
-  Professor. Su Hyeon, Lee (Changwon National University)
+  - Professor. Su Hyeon, Lee (Changwon National University)
   
- How to use this project?
+IV. How to use this project?
   
  Step 1. Please clone this project to your PC and install Unity Engine.
  
