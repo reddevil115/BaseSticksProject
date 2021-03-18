@@ -29,7 +29,7 @@ Team for Changwon National University where in Republic of Korea's graduate proj
 
   Professor. Su Hyeon, Lee (Changwon National University)
   
-  How to use this project?
+ How to use this project?
   
  Step 1. Please clone this project to your PC and install Unity Engine.
  
