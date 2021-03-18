@@ -25,11 +25,11 @@ Team for Changwon National University where in Republic of Korea's graduate proj
   
   https://www.linkedin.com/in/louis-kim-gi-young-kim-47a2361b5/
   
- III. Academic Adviser:
+ IV. Academic Adviser:
 
   - Professor. Su Hyeon, Lee (Changwon National University)
   
-IV. How to use this project?
+V. How to use this project?
   
  Step 1. Please clone this project to your PC and install Unity Engine.
  
