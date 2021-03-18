@@ -33,7 +33,7 @@ V. How to use this project?
   
  Step 1. Please clone this project to your PC and install Unity Engine.
  
- - Unity URl:
+ - Unity URL:
  
    https://unity.com/
  
