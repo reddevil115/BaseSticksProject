@@ -19,13 +19,13 @@ Team for Changwon National University where in Republic of Korea's graduate proj
 
 - Crew Memeber:
 
-※ 1 Person is participating in this project.
+    ※ 1 Person is participating in this project.
 
-  Gi Young, Kim(LOUIS KIM) / Main Developer, Team Leader
+      Gi Young, Kim(LOUIS KIM) / Main Developer, Team Leader
   
-  Linkdin:
+      Linkdin:
   
-  https://www.linkedin.com/in/louis-kim-gi-young-kim-47a2361b5/
+      https://www.linkedin.com/in/louis-kim-gi-young-kim-47a2361b5/
   
  IV. Academic Adviser:
 
