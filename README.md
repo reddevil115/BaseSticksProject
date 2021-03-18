@@ -1,8 +1,8 @@
-# BaseSticksProject by The Team Fifty Seven
+# BaseSticks Project by The Team Fifty Seven
 
 I. About this project:
 
-This project is a game which is fusion between Korean traditional boardgame caleed "Yutnori" and Baseball.
+This project is a game which is fusion between Korean traditional board game called "Yutnori" and Baseball.
 
  - Thie project is just uploaded at Google Play Store now.
  
@@ -11,7 +11,7 @@ This project is a game which is fusion between Korean traditional boardgame cale
 
 II. About this repository:
 
-This repository for BaseSticksProject by The Team Fifty Seven.
+This repository for BaseSticks  Project by The Team Fifty Seven.
 
 III. About The Team Fifty Seven:
 
