@@ -87,6 +87,7 @@ public class GameManager : MonoBehaviour
     public Button offenseButton;
     public Button defenseCardButton;
     public Button defenseSave;
+    public Button defenseSaveClear;
 
     //Texts
     public Text turnMessage;
@@ -227,6 +228,11 @@ public class GameManager : MonoBehaviour
         {
             defenseSave.interactable = true;
         }
+
+        else
+        {
+            defenseSave.interactable = false;
+        }
     }
 
     //Offense Button System
@@ -306,6 +312,11 @@ public class GameManager : MonoBehaviour
     {
         isDefenseCardActive = true;
 
+        if(defenseSaveClear.gameObject.activeSelf)
+        {
+            defenseSaveClear.gameObject.SetActive(false);
+        }
+
         offenseChoice = 5;
         ResetSystem();
     }
@@ -365,6 +376,34 @@ public class GameManager : MonoBehaviour
             defenseSelectListSave[i] = defenseSelectList[i];
             statueTextSave[i] = statueText[i].text;
         }
+    }
+
+    public void DefensePatternLoad_btn()
+    {
+        for(i = 0; i < defenseSelectListSave.Length; i++)
+        {
+            defenseSelectList[i] = defenseSelectListSave[i];
+            statueText[i].text = statueTextSave[i];
+        }
+
+        defenseSaveClear.gameObject.SetActive(true);
+
+        pigFlag = true;
+        dogFlag = true;
+        sheepFlag = true;
+        cowFlag = true;
+        horseFlag = true;
+    }
+
+    public void DefensePatternClear_btn()
+    {
+        for(i = 0; i < defenseSelectListSave.Length; i++)
+        {
+            defenseSelectListSave[i] = -1;
+            statueTextSave[i] = null;
+        }
+
+        ResetSystem();
     }
 
     // Choice Systems
