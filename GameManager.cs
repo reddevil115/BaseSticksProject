@@ -1,4 +1,6 @@
-﻿using System.Collections;
+﻿// The Fifty Seven's Creation
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
@@ -10,6 +12,7 @@ public class GameManager : MonoBehaviour
     StickBehavior StickBehavior;
     StoneManager StoneManager;
     ResultUIManager ResultUIManager;
+    PlayHistoryManager PlayHistoryManager;
 
     private const int minumun = 0; // Random Beginning Value
     private const int maximum = 5; //Random End Value
@@ -132,6 +135,7 @@ public class GameManager : MonoBehaviour
         //Setting Class 
         StickBehavior = GameObject.Find("Sticks").GetComponent<StickBehavior>();
         StoneManager = GameObject.Find("GameManager").GetComponent<StoneManager>();
+        PlayHistoryManager = GameObject.Find("GameManager").GetComponent<PlayHistoryManager>();
 
         //Setting userFirst bool
         isUserFirst = GameStat.isUserFirst;
@@ -1256,6 +1260,8 @@ public class GameManager : MonoBehaviour
 
         if(gameHistoryIndexMax != 0)
         {
+            PlayHistoryManager.PanelSystem(gameHistoryList[0]);
+
             GameHistoryValueConverter(gameHistoryIndex);
 
             historyInningval.text = "# Inning: " + gameHistoryInningList[gameHistoryIndex].ToString();
@@ -1312,6 +1318,7 @@ public class GameManager : MonoBehaviour
         {
             gameHistoryIndex--;
 
+            PlayHistoryManager.PanelSystem(gameHistoryList[gameHistoryIndex]);
             GameHistoryValueConverter(gameHistoryIndex);
 
             historyInningval.text = "# Inning: " + gameHistoryInningList[gameHistoryIndex].ToString();
@@ -1342,6 +1349,7 @@ public class GameManager : MonoBehaviour
         {
             gameHistoryIndex++;
 
+            PlayHistoryManager.PanelSystem(gameHistoryList[gameHistoryIndex]);
             GameHistoryValueConverter(gameHistoryIndex);
 
             historyInningval.text = "# Inning: " + gameHistoryInningList[gameHistoryIndex].ToString();
