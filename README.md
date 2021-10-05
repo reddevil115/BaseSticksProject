@@ -44,6 +44,8 @@ Team for Changwon National University where in Republic of Korea's graduate proj
    https://unity.com/
  
  *Step 2. Import pakage file at Unity Engine.*
+ 
+ * Notice : Not all code included in this repository.
 
 
 Last date of commit to this repository : 2021. May. 14th
